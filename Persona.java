@@ -1,2 +1,4 @@
-int num1;
-int num2;
+public class Persona {
+	public String nombre;
+	public String apellidos;
+}
